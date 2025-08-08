@@ -1,0 +1,12 @@
+C:\Users\labuser\source\repos\ExceptionalHandling_1\bin\Debug\net8.0-windows\ExceptionalHandling_1.exe
+C:\Users\labuser\source\repos\ExceptionalHandling_1\bin\Debug\net8.0-windows\ExceptionalHandling_1.dll
+C:\Users\labuser\source\repos\ExceptionalHandling_1\obj\Debug\net8.0-windows\ExceptionalHandling_1.Excepform.resources
+C:\Users\labuser\source\repos\ExceptionalHandling_1\obj\Debug\net8.0-windows\ExceptionalHandling_1.Form1.resources
+C:\Users\labuser\source\repos\ExceptionalHandling_1\obj\Debug\net8.0-windows\ExceptionalHandling_1.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\ExceptionalHandling_1\obj\Debug\net8.0-windows\ExceptionalHandling_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\ExceptionalHandling_1\obj\Debug\net8.0-windows\ExceptionalHandling_1.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\ExceptionalHandling_1\obj\Debug\net8.0-windows\ExceptionalHandling_1.AssemblyInfo.cs
+C:\Users\labuser\source\repos\ExceptionalHandling_1\obj\Debug\net8.0-windows\ExceptionalHandling_1.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\ExceptionalHandling_1\obj\Debug\net8.0-windows\ExceptionalHandling_1.dll
+C:\Users\labuser\source\repos\ExceptionalHandling_1\obj\Debug\net8.0-windows\refint\ExceptionalHandling_1.dll
+C:\Users\labuser\source\repos\ExceptionalHandling_1\obj\Debug\net8.0-windows\ExceptionalHandling_1.pdb

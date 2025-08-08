@@ -1,0 +1,14 @@
+C:\Users\labuser\source\repos\inheritance_demo\obj\Debug\net8.0\inheritance_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\inheritance_demo\obj\Debug\net8.0\inheritance_demo.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\inheritance_demo\obj\Debug\net8.0\inheritance_demo.AssemblyInfo.cs
+C:\Users\labuser\source\repos\inheritance_demo\obj\Debug\net8.0\inheritance_demo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\inheritance_demo\bin\Debug\net8.0\inheritance_demo.exe
+C:\Users\labuser\source\repos\inheritance_demo\bin\Debug\net8.0\inheritance_demo.deps.json
+C:\Users\labuser\source\repos\inheritance_demo\bin\Debug\net8.0\inheritance_demo.runtimeconfig.json
+C:\Users\labuser\source\repos\inheritance_demo\bin\Debug\net8.0\inheritance_demo.dll
+C:\Users\labuser\source\repos\inheritance_demo\bin\Debug\net8.0\inheritance_demo.pdb
+C:\Users\labuser\source\repos\inheritance_demo\obj\Debug\net8.0\inheritance_demo.dll
+C:\Users\labuser\source\repos\inheritance_demo\obj\Debug\net8.0\refint\inheritance_demo.dll
+C:\Users\labuser\source\repos\inheritance_demo\obj\Debug\net8.0\inheritance_demo.pdb
+C:\Users\labuser\source\repos\inheritance_demo\obj\Debug\net8.0\inheritance_demo.genruntimeconfig.cache
+C:\Users\labuser\source\repos\inheritance_demo\obj\Debug\net8.0\ref\inheritance_demo.dll

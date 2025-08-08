@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labuser\\source\\repos\\ExceptionalHandling_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A26252-B883-4BCE-9A9A-1BBD91D6E853}|ExceptionalHandling_1.csproj|c:\\users\\labuser\\source\\repos\\exceptionalhandling_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4A26252-B883-4BCE-9A9A-1BBD91D6E853}|ExceptionalHandling_1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A26252-B883-4BCE-9A9A-1BBD91D6E853}|ExceptionalHandling_1.csproj|c:\\users\\labuser\\source\\repos\\exceptionalhandling_1\\excepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4A26252-B883-4BCE-9A9A-1BBD91D6E853}|ExceptionalHandling_1.csproj|solutionrelative:excepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A26252-B883-4BCE-9A9A-1BBD91D6E853}|ExceptionalHandling_1.csproj|c:\\users\\labuser\\source\\repos\\exceptionalhandling_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A26252-B883-4BCE-9A9A-1BBD91D6E853}|ExceptionalHandling_1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A26252-B883-4BCE-9A9A-1BBD91D6E853}|ExceptionalHandling_1.csproj|c:\\users\\labuser\\source\\repos\\exceptionalhandling_1\\excepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A26252-B883-4BCE-9A9A-1BBD91D6E853}|ExceptionalHandling_1.csproj|solutionrelative:excepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A26252-B883-4BCE-9A9A-1BBD91D6E853}|ExceptionalHandling_1.csproj|c:\\users\\labuser\\source\\repos\\exceptionalhandling_1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A26252-B883-4BCE-9A9A-1BBD91D6E853}|ExceptionalHandling_1.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Excepform.cs",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\ExceptionalHandling_1\\Excepform.cs",
+              "RelativeDocumentMoniker": "Excepform.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\ExceptionalHandling_1\\Excepform.cs",
+              "RelativeToolTip": "Excepform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:36:54.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Excepform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\ExceptionalHandling_1\\Excepform.cs",
+              "RelativeDocumentMoniker": "Excepform.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\ExceptionalHandling_1\\Excepform.cs [Design]",
+              "RelativeToolTip": "Excepform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:08:18.029Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\ExceptionalHandling_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\ExceptionalHandling_1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:05:57.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\ExceptionalHandling_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\ExceptionalHandling_1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:05:07.084Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\ExceptionalHandling_1\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\ExceptionalHandling_1\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvx8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:05:48.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

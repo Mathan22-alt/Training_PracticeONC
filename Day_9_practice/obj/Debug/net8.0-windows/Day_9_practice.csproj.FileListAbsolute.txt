@@ -1,0 +1,16 @@
+C:\Users\labuser\source\repos\Day_9_practice\bin\Debug\net8.0-windows\Day_9_practice.exe
+C:\Users\labuser\source\repos\Day_9_practice\bin\Debug\net8.0-windows\Day_9_practice.deps.json
+C:\Users\labuser\source\repos\Day_9_practice\bin\Debug\net8.0-windows\Day_9_practice.runtimeconfig.json
+C:\Users\labuser\source\repos\Day_9_practice\bin\Debug\net8.0-windows\Day_9_practice.dll
+C:\Users\labuser\source\repos\Day_9_practice\bin\Debug\net8.0-windows\Day_9_practice.pdb
+C:\Users\labuser\source\repos\Day_9_practice\obj\Debug\net8.0-windows\Day_9_practice.Form1.resources
+C:\Users\labuser\source\repos\Day_9_practice\obj\Debug\net8.0-windows\Day_9_practice.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\Day_9_practice\obj\Debug\net8.0-windows\Day_9_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\Day_9_practice\obj\Debug\net8.0-windows\Day_9_practice.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\Day_9_practice\obj\Debug\net8.0-windows\Day_9_practice.AssemblyInfo.cs
+C:\Users\labuser\source\repos\Day_9_practice\obj\Debug\net8.0-windows\Day_9_practice.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\Day_9_practice\obj\Debug\net8.0-windows\Day_9_practice.dll
+C:\Users\labuser\source\repos\Day_9_practice\obj\Debug\net8.0-windows\refint\Day_9_practice.dll
+C:\Users\labuser\source\repos\Day_9_practice\obj\Debug\net8.0-windows\Day_9_practice.pdb
+C:\Users\labuser\source\repos\Day_9_practice\obj\Debug\net8.0-windows\Day_9_practice.genruntimeconfig.cache
+C:\Users\labuser\source\repos\Day_9_practice\obj\Debug\net8.0-windows\ref\Day_9_practice.dll

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labuser\\source\\repos\\ExcepHand_Day_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC6EFB5-7AC6-4BE9-B1D8-86A6073EE8B5}|ExcepHand_Day_9.csproj|c:\\users\\labuser\\source\\repos\\excephand_day_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBC6EFB5-7AC6-4BE9-B1D8-86A6073EE8B5}|ExcepHand_Day_9.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC6EFB5-7AC6-4BE9-B1D8-86A6073EE8B5}|ExcepHand_Day_9.csproj|c:\\users\\labuser\\source\\repos\\excephand_day_9\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC6EFB5-7AC6-4BE9-B1D8-86A6073EE8B5}|ExcepHand_Day_9.csproj|solutionrelative:supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC6EFB5-7AC6-4BE9-B1D8-86A6073EE8B5}|ExcepHand_Day_9.csproj|c:\\users\\labuser\\source\\repos\\excephand_day_9\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC6EFB5-7AC6-4BE9-B1D8-86A6073EE8B5}|ExcepHand_Day_9.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC6EFB5-7AC6-4BE9-B1D8-86A6073EE8B5}|ExcepHand_Day_9.csproj|c:\\users\\labuser\\source\\repos\\excephand_day_9\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{BBC6EFB5-7AC6-4BE9-B1D8-86A6073EE8B5}|ExcepHand_Day_9.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC6EFB5-7AC6-4BE9-B1D8-86A6073EE8B5}|ExcepHand_Day_9.csproj|c:\\users\\labuser\\source\\repos\\excephand_day_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC6EFB5-7AC6-4BE9-B1D8-86A6073EE8B5}|ExcepHand_Day_9.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\ExcepHand_Day_9\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\ExcepHand_Day_9\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAAcAAAAAzczMzEw4wDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:35:58.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\ExcepHand_Day_9\\Supplier.cs",
+              "RelativeDocumentMoniker": "Supplier.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\ExcepHand_Day_9\\Supplier.cs*",
+              "RelativeToolTip": "Supplier.cs*",
+              "ViewState": "AgIAACoAAAAAzszMzMwOwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:06:40.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\ExcepHand_Day_9\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\ExcepHand_Day_9\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAuwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:22:26.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\ExcepHand_Day_9\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\ExcepHand_Day_9\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-29T15:22:26.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\ExcepHand_Day_9\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\ExcepHand_Day_9\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:40:27.833Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\labuser\source\repos\program\bin\Debug\net8.0\program.exe
+C:\Users\labuser\source\repos\program\bin\Debug\net8.0\program.deps.json
+C:\Users\labuser\source\repos\program\bin\Debug\net8.0\program.runtimeconfig.json
+C:\Users\labuser\source\repos\program\bin\Debug\net8.0\program.dll
+C:\Users\labuser\source\repos\program\bin\Debug\net8.0\program.pdb
+C:\Users\labuser\source\repos\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+C:\Users\labuser\source\repos\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\program\obj\Debug\net8.0\program.dll
+C:\Users\labuser\source\repos\program\obj\Debug\net8.0\refint\program.dll
+C:\Users\labuser\source\repos\program\obj\Debug\net8.0\program.pdb
+C:\Users\labuser\source\repos\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+C:\Users\labuser\source\repos\program\obj\Debug\net8.0\ref\program.dll

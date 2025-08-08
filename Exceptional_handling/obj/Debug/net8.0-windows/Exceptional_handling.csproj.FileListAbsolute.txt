@@ -1,0 +1,6 @@
+C:\Users\labuser\source\repos\Exceptional_handling\obj\Debug\net8.0-windows\Exceptional_handling.Form1.resources
+C:\Users\labuser\source\repos\Exceptional_handling\obj\Debug\net8.0-windows\Exceptional_handling.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\Exceptional_handling\obj\Debug\net8.0-windows\Exceptional_handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\Exceptional_handling\obj\Debug\net8.0-windows\Exceptional_handling.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\Exceptional_handling\obj\Debug\net8.0-windows\Exceptional_handling.AssemblyInfo.cs
+C:\Users\labuser\source\repos\Exceptional_handling\obj\Debug\net8.0-windows\Exceptional_handling.csproj.CoreCompileInputs.cache

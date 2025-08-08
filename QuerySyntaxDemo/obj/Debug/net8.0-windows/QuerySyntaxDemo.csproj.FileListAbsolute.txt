@@ -1,0 +1,16 @@
+C:\Users\labuser\source\repos\QuerySyntaxDemo\bin\Debug\net8.0-windows\QuerySyntaxDemo.exe
+C:\Users\labuser\source\repos\QuerySyntaxDemo\bin\Debug\net8.0-windows\QuerySyntaxDemo.deps.json
+C:\Users\labuser\source\repos\QuerySyntaxDemo\bin\Debug\net8.0-windows\QuerySyntaxDemo.runtimeconfig.json
+C:\Users\labuser\source\repos\QuerySyntaxDemo\bin\Debug\net8.0-windows\QuerySyntaxDemo.dll
+C:\Users\labuser\source\repos\QuerySyntaxDemo\bin\Debug\net8.0-windows\QuerySyntaxDemo.pdb
+C:\Users\labuser\source\repos\QuerySyntaxDemo\obj\Debug\net8.0-windows\QuerySyntaxDemo.Form1.resources
+C:\Users\labuser\source\repos\QuerySyntaxDemo\obj\Debug\net8.0-windows\QuerySyntaxDemo.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\QuerySyntaxDemo\obj\Debug\net8.0-windows\QuerySyntaxDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\QuerySyntaxDemo\obj\Debug\net8.0-windows\QuerySyntaxDemo.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\QuerySyntaxDemo\obj\Debug\net8.0-windows\QuerySyntaxDemo.AssemblyInfo.cs
+C:\Users\labuser\source\repos\QuerySyntaxDemo\obj\Debug\net8.0-windows\QuerySyntaxDemo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\QuerySyntaxDemo\obj\Debug\net8.0-windows\QuerySyntaxDemo.dll
+C:\Users\labuser\source\repos\QuerySyntaxDemo\obj\Debug\net8.0-windows\refint\QuerySyntaxDemo.dll
+C:\Users\labuser\source\repos\QuerySyntaxDemo\obj\Debug\net8.0-windows\QuerySyntaxDemo.pdb
+C:\Users\labuser\source\repos\QuerySyntaxDemo\obj\Debug\net8.0-windows\QuerySyntaxDemo.genruntimeconfig.cache
+C:\Users\labuser\source\repos\QuerySyntaxDemo\obj\Debug\net8.0-windows\ref\QuerySyntaxDemo.dll

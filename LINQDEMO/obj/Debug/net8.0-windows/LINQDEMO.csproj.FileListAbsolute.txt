@@ -1,0 +1,16 @@
+C:\Users\labuser\source\repos\LINQDEMO\bin\Debug\net8.0-windows\LINQDEMO.exe
+C:\Users\labuser\source\repos\LINQDEMO\bin\Debug\net8.0-windows\LINQDEMO.deps.json
+C:\Users\labuser\source\repos\LINQDEMO\bin\Debug\net8.0-windows\LINQDEMO.runtimeconfig.json
+C:\Users\labuser\source\repos\LINQDEMO\bin\Debug\net8.0-windows\LINQDEMO.dll
+C:\Users\labuser\source\repos\LINQDEMO\bin\Debug\net8.0-windows\LINQDEMO.pdb
+C:\Users\labuser\source\repos\LINQDEMO\obj\Debug\net8.0-windows\LINQDEMO.Form1.resources
+C:\Users\labuser\source\repos\LINQDEMO\obj\Debug\net8.0-windows\LINQDEMO.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\LINQDEMO\obj\Debug\net8.0-windows\LINQDEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\LINQDEMO\obj\Debug\net8.0-windows\LINQDEMO.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\LINQDEMO\obj\Debug\net8.0-windows\LINQDEMO.AssemblyInfo.cs
+C:\Users\labuser\source\repos\LINQDEMO\obj\Debug\net8.0-windows\LINQDEMO.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\LINQDEMO\obj\Debug\net8.0-windows\LINQDEMO.dll
+C:\Users\labuser\source\repos\LINQDEMO\obj\Debug\net8.0-windows\refint\LINQDEMO.dll
+C:\Users\labuser\source\repos\LINQDEMO\obj\Debug\net8.0-windows\LINQDEMO.pdb
+C:\Users\labuser\source\repos\LINQDEMO\obj\Debug\net8.0-windows\LINQDEMO.genruntimeconfig.cache
+C:\Users\labuser\source\repos\LINQDEMO\obj\Debug\net8.0-windows\ref\LINQDEMO.dll

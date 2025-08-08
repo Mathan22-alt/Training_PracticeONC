@@ -1,0 +1,11 @@
+C:\Users\labuser\source\repos\Retail_Library\bin\Debug\net8.0\Retail_Library.deps.json
+C:\Users\labuser\source\repos\Retail_Library\bin\Debug\net8.0\Retail_Library.dll
+C:\Users\labuser\source\repos\Retail_Library\bin\Debug\net8.0\Retail_Library.pdb
+C:\Users\labuser\source\repos\Retail_Library\obj\Debug\net8.0\Retail_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\Retail_Library\obj\Debug\net8.0\Retail_Library.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\Retail_Library\obj\Debug\net8.0\Retail_Library.AssemblyInfo.cs
+C:\Users\labuser\source\repos\Retail_Library\obj\Debug\net8.0\Retail_Library.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\Retail_Library\obj\Debug\net8.0\Retail_Library.dll
+C:\Users\labuser\source\repos\Retail_Library\obj\Debug\net8.0\refint\Retail_Library.dll
+C:\Users\labuser\source\repos\Retail_Library\obj\Debug\net8.0\Retail_Library.pdb
+C:\Users\labuser\source\repos\Retail_Library\obj\Debug\net8.0\ref\Retail_Library.dll
