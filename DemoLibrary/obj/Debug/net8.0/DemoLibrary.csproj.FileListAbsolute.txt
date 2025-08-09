@@ -9,3 +9,4 @@ C:\Users\labuser\source\repos\DemoLibrary\obj\Debug\net8.0\DemoLibrary.dll
 C:\Users\labuser\source\repos\DemoLibrary\obj\Debug\net8.0\refint\DemoLibrary.dll
 C:\Users\labuser\source\repos\DemoLibrary\obj\Debug\net8.0\DemoLibrary.pdb
 C:\Users\labuser\source\repos\DemoLibrary\obj\Debug\net8.0\ref\DemoLibrary.dll
+C:\Users\labuser\source\repos\DemoLibrary\obj\Debug\net8.0\DemoLibrary.sourcelink.json
