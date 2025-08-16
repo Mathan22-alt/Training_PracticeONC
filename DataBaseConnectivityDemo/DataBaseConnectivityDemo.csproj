@@ -9,8 +9,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="DataBaseConnectivityDemo">
-      <HintPath>bin\Debug\net8.0-windows\DataBaseConnectivityDemo.dll</HintPath>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BuisnessLogicLayer\BuisnessLogicLayer.csproj" />
+    <ProjectReference Include="..\DataAccessLibrary\DataAccessLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BuisnessLogicLayer">
+      <HintPath>..\BuisnessLogicLayer\bin\Debug\net8.0\BuisnessLogicLayer.dll</HintPath>
     </Reference>
   </ItemGroup>
 

@@ -1,4 +1,4 @@
-﻿namespace BuisneesLogicLayerLibrary
+﻿namespace BuisnessLogic
 {
     public class Class1
     {

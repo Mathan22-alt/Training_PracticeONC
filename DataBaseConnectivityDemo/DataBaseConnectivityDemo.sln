@@ -1,14 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24 d17.14
+VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseConnectivityDemo", "DataBaseConnectivityDemo.csproj", "{BABF7AA3-B9DF-4C97-B39D-23A05B13F615}"
 	ProjectSection(ProjectDependencies) = postProject
-		{E4D8B890-5F59-4860-A4F8-B03F137F01B1} = {E4D8B890-5F59-4860-A4F8-B03F137F01B1}
+		{740B5C0C-24AF-4B48-8EB7-E028CB3A1AF1} = {740B5C0C-24AF-4B48-8EB7-E028CB3A1AF1}
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "..\DataAccessLibrary\DataAccessLibrary.csproj", "{E4D8B890-5F59-4860-A4F8-B03F137F01B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuisnessLogicLayer", "..\BuisnessLogicLayer\BuisnessLogicLayer.csproj", "{740B5C0C-24AF-4B48-8EB7-E028CB3A1AF1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E4D8B890-5F59-4860-A4F8-B03F137F01B1} = {E4D8B890-5F59-4860-A4F8-B03F137F01B1}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +29,10 @@ Global
 		{E4D8B890-5F59-4860-A4F8-B03F137F01B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4D8B890-5F59-4860-A4F8-B03F137F01B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4D8B890-5F59-4860-A4F8-B03F137F01B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740B5C0C-24AF-4B48-8EB7-E028CB3A1AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740B5C0C-24AF-4B48-8EB7-E028CB3A1AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740B5C0C-24AF-4B48-8EB7-E028CB3A1AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740B5C0C-24AF-4B48-8EB7-E028CB3A1AF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

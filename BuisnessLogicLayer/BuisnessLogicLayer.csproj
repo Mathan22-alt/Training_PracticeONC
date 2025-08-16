@@ -10,4 +10,10 @@
     <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="DataAccessLibrary">
+      <HintPath>..\DataAccessLibrary\bin\Debug\net8.0\DataAccessLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
