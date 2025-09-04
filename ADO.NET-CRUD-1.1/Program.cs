@@ -1,5 +1,6 @@
-﻿using Microsoft.Data.SqlClient;
-using System.Data.SqlClient;
+﻿using Azure;
+using Microsoft.Data.SqlClient;
+
 
 internal class Program
 {
@@ -14,7 +15,8 @@ internal class Program
             Console.WriteLine("1.InsertDATA");
             Console.WriteLine("2.ReadDATA");
             Console.WriteLine("3.RemoveDATA");
-            Console.WriteLine("4.Exit");
+            Console.WriteLine("4.UpdateData");
+            Console.WriteLine("5.Exit");
 
 
             Console.Write("Ennter the choice");
@@ -29,7 +31,8 @@ internal class Program
                     break;
                 case 2: ReadData(); break;
                 case 3: RemoveData(); break;
-                case 4: return;
+                case 4: UpdateData(); break;
+                case 5: return;
 
             }
             static void ReadData()
@@ -85,6 +88,32 @@ internal class Program
                     Console.WriteLine($"{rows} row(s) deleted.");
                 }
             }
+            static void UpdateData()
+            {
+                Console.WriteLine("Enter the Id : ");
+                int id = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Enter the name :");
+                string name = Console.ReadLine();
+
+                Console.WriteLine("Enter the age :");
+                int age =  Convert.ToInt32(Console.ReadLine());
+                using (SqlConnection con = new SqlConnection(connection))
+                {
+                    con.Open();
+                    string query = "UPDATE students SET name = @name, age = @age WHERE id = @id";
+                    SqlCommand cmd = new SqlCommand(query, con);
+
+                
+                    cmd.Parameters.AddWithValue("@name", name);
+                    cmd.Parameters.AddWithValue("@age", age);
+                    cmd.Parameters.AddWithValue("@id", id);
+
+                    int rows = cmd.ExecuteNonQuery();
+                    Console.WriteLine($"{rows} row(s) updated.");
+
+
+                }
+                }
         }
     }
 }
