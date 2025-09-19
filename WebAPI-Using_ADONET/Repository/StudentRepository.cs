@@ -78,6 +78,9 @@ namespace WebAPI_Using_ADONET.Repository
             }
             return students;
         }
+        //HAVE TO USE TRY CATCH TO AVOID ERRORS
+        // USE ASYNC AWAIT//
+        // USe INETRFACE
 
         // Update Student
         public void UpdateStudent(Student student)
