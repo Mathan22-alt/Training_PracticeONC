@@ -1,0 +1,66 @@
+<div class="transactions-container">
+  <h2>Transactions</h2>
+
+  <!-- Filters -->
+  <div class="filters">
+    <label>
+      Booking ID:
+      <input type="text" [(ngModel)]="bookingId" placeholder="Enter Booking ID">
+    </label>
+
+    <label>
+      Start Date:
+      <input type="date" [(ngModel)]="startDate">
+    </label>
+
+    <label>
+      End Date:
+      <input type="date" [(ngModel)]="endDate">
+    </label>
+
+    <button (click)="fetchTransactions()">Fetch Transactions</button>
+    <button (click)="downloadExcel()">Download Excel</button>
+  </div>
+
+  <!-- Transaction Table -->
+  <table *ngIf="transactions.length > 0" border="1" cellpadding="5" cellspacing="0">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Account ID</th>
+        <th>Booking ID</th>
+        <th>Account Name</th>
+        <th>Account Number</th>
+        <th>Current Balance</th>
+        <th>Date</th>
+        <th>Debit</th>
+        <th>Credit</th>
+        <th>Amount</th>
+        <th>Type</th>
+        <th>Description</th>
+        <th>Balance</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let txn of transactions">
+        <td>{{ txn.id }}</td>
+        <td>{{ txn.accountId }}</td>
+        <td>{{ txn.bookingId }}</td>
+        <td>{{ txn.accountName }}</td>
+        <td>{{ txn.accountNumber }}</td>
+        <td>{{ txn.currentBalance | number:'1.2-2' }}</td>
+        <td>{{ txn.date | date:'medium' }}</td>
+        <td>{{ txn.debit || '-' }}</td>
+        <td>{{ txn.credit || '-' }}</td>
+        <td>{{ txn.amount | number:'1.2-2' }}</td>
+        <td>{{ txn.type }}</td>
+        <td>{{ txn.description }}</td>
+        <td>{{ txn.balance | number:'1.2-2' }}</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div *ngIf="transactions.length === 0">
+    <p>No transactions found.</p>
+  </div>
+</div>
